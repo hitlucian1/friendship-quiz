@@ -1,0 +1,32 @@
+h2 {
+    background-color:rgb(106, 106, 228);
+    
+}
+.title{
+    background-color: beige;
+    color:rgb(216, 40, 131);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.container{
+    display: flex;
+    justify-content:flex-start;
+    align-items: flex-start;
+}
+
+div {
+    border:2px black solid;
+    padding:5px;
+}
+.d1{
+   
+    background-color: aqua;
+}
+
+.d2{
+    background-color: yellowgreen;
+}
+.d3 {
+    background-color: aquamarine;
+}
